@@ -1,0 +1,27 @@
+SOCKET MODULE IN PYTHON:
+
+The socket module in Python provides a low-level interface to network communication. 
+It enables the creation of network sockets, which are endpoints for sending or receiving 
+data over a network. Sockets can be used for various networking tasks, such as client-server 
+communication, data transfer, and network protocol implementation.
+
+The socket module supports both TCP (Transmission Control Protocol) and UDP 
+(User Datagram Protocol) for communication. TCP provides a reliable, 
+connection-oriented communication, while UDP offers a simpler, connectionless 
+communication with less overhead.
+
+Common operations with the socket module include creating a socket, 
+binding it to a specific address and port, listening for incoming connections, 
+and establishing connections. It's a fundamental tool for building networked applications 
+in Python.
+--------------------------------------------------------------------------------------------
+THREADING MODULE IN PYTHON:
+
+The threading module in Python is a built-in module that provides a way to create and manage 
+threads. Threads are lightweight, independent units of execution that allow a program to perform 
+multiple tasks concurrently. In Python, the threading module is used for thread-related operations.
+
+Threads in Python are particularly useful for concurrent programming, where different parts 
+of a program can run independently.
+--------------------------------------------------------------------------------------------------
+
